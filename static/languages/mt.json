@@ -1,13 +1,10 @@
 {
-  "title": "Liema pajjiżi tal-UE joffru l-aħjar prospetti ta' impjieg?",
-  "subtitle": "It-tkabbir futur fl-impjiegi f'dawn il-pajjiżi fl-2022-2035 huwa stmat għal 5.6%.",
+  "title": "Kemm huma komuni r-reati ta' korruzzjoni rreġistrati madwar l-UE?",
+  "subtitle": "Fl-2024, il-pajjiżi tal-UE rreġistraw medja ta’ 29.3 reat ta’ korruzzjoni għal kull 100,000 abitant. L-Iżvezja kellha l-ogħla rata b’223.0 filwaqt li l-Irlanda rreġistrat l-inqas rata b’0.06.",
   "textNoteDescription": "Nota",
-  "textNote": "sdchdc",
   "textSourceDescription": "Sors",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Aċċessa għad-data",
-  "extraInfo_DE": "Il-Ġermanja Tħaffef il-Ħruġ tal-Enerġija Rinnovabbli, Timmira 80% Enerġija Nadifa sal-2030",
-  "extraInfo_FR": "Il-Parlament Franċiż Japprova Abbozz ta' Liġi ta' Riforma Maġġuri fl-Immigrazzjoni Fost Protesti Nazzjonali",
+  "textSource": "L-Eurostat (2026)",
+  "linkDataAccessDescription": "Aċċessa d-dejta",
   "legend1": "L-ebda dejta disponibbli",
   "tooltipExtraInfoLabel": "Ikklikkja hawn"
 }
