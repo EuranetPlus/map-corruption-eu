@@ -1,13 +1,10 @@
 {
-  "title": "Které země EU nabízejí nejlepší vyhlídky na zaměstnání?",
-  "subtitle": "Budoucí růst zaměstnanosti v těchto zemích v letech 2022-2035 se odhaduje na 5,6 %.",
+  "title": "Jak časté jsou zaznamenávané korupční trestné činy v celé EU?",
+  "subtitle": "V roce 2024 zaznamenaly země EU průměrně 29,3 korupčních trestných činů na 100 000 obyvatel. Švédsko mělo nejvyšší míru s 223,0, zatímco Irsko zaznamenalo nejnižší míru s 0,06.",
   "textNoteDescription": "Poznámka",
-  "textNote": "sdchdc",
   "textSourceDescription": "Zdroj",
-  "textSource": "sdcshdc",
+  "textSource": "Eurostat (2026)",
   "linkDataAccessDescription": "Přístup k datům",
-  "extraInfo_DE": "Německo urychluje zavádění obnovitelné energie a do roku 2030 si klade za cíl 80 % čisté energie",
-  "extraInfo_FR": "Francouzský parlament schválil návrh zákona o velké imigrační reformě uprostřed celonárodních protestů",
-  "legend1": "Nejsou k dispozici žádné údaje",
+  "legend1": "Nejsou k dispozici žádná data",
   "tooltipExtraInfoLabel": "Klikněte zde"
 }
