@@ -1,13 +1,10 @@
 {
-  "title": "Welche EU-Länder bieten die besten Beschäftigungsaussichten?",
-  "subtitle": "Das künftige Beschäftigungswachstum in diesen Ländern im Zeitraum 2022–2035 wird auf 5,6 % geschätzt.",
+  "title": "Wie häufig sind registrierte Korruptionsdelikte in der EU?",
+  "subtitle": "Im Jahr 2024 verzeichneten die EU-Länder durchschnittlich 29,3 Korruptionsdelikte pro 100.000 Einwohner. Schweden wies mit 223,0 die höchste Rate auf, während Irland mit 0,06 die niedrigste verzeichnete.",
   "textNoteDescription": "Notiz",
-  "textNote": "sdchdc",
   "textSourceDescription": "Quelle",
-  "textSource": "Abonnieren",
-  "linkDataAccessDescription": "Zugriff auf die Daten",
-  "extraInfo_DE": "Deutschland beschleunigt Ausbau erneuerbarer Energien und strebt bis 2030 80 % sauberen Stromanteil an",
-  "extraInfo_FR": "Französisches Parlament verabschiedet inmitten landesweiter Proteste ein umfassendes Gesetz zur Einwanderungsreform",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Greifen Sie auf die Daten zu.",
   "legend1": "Keine Daten verfügbar",
   "tooltipExtraInfoLabel": "klicken Sie hier"
 }
