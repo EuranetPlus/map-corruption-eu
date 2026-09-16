@@ -1,13 +1,10 @@
 {
-  "title": "Vilka EU-länder erbjuder de bästa sysselsättningsmöjligheterna?",
-  "subtitle": "Framtida sysselsättningstillväxt i dessa länder 2022-2035 beräknas till 5,6 %.",
+  "title": "Hur vanliga är registrerade korruptionsbrott i EU?",
+  "subtitle": "År 2024 registrerade EU-länderna i genomsnitt 29,3 korruptionsbrott per 100 000 invånare. Sverige hade den högsta andelen på 223,0 medan Irland hade den lägsta andelen på 0,06.",
   "textNoteDescription": "Notera",
-  "textNote": "sdchdc",
   "textSourceDescription": "Källa",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Få åtkomst till data",
-  "extraInfo_DE": "Tyskland accelererar utbyggnaden av förnybar energi, siktar på 80 % ren kraft till 2030",
-  "extraInfo_FR": "Det franska parlamentet godkänner lagförslaget om stora invandringsreformer under rikstäckande protester",
+  "textSource": "Eurostat (2026)",
+  "linkDataAccessDescription": "Åtkomst till data",
   "legend1": "Inga data tillgängliga",
   "tooltipExtraInfoLabel": "Klicka här"
 }
